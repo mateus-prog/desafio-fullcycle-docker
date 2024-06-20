@@ -42,5 +42,10 @@ Para usar a imagem pública já buildada, execute o comando abaixo:
 docker run --rm mguizelini/docker-desafio-go
 ```
 
+## Docker Hub
+```bash
+https://hub.docker.com/repository/docker/mguizelini/docker-desafio-go/general
+```
+
 ## Authors and acknowledgment
 - [Mateus Guizelini. no GitHub](https://github.com/mateus-prog);
